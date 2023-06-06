@@ -1,4 +1,5 @@
 # HPUI-Core
+Moved to https://github.com/ovi-lab/HPUI-Core
 ## Usage
 ### Prefabs
 #### DeformableSurface
